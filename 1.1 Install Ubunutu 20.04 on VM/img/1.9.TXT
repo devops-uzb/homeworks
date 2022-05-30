@@ -1,0 +1,16 @@
+root@fazogir:/# nano ~/.bashrc
+alias ll='ls -alF'
+alias la='ls -A'
+alias l='ls -CF'
+alias d='date "+DATE: %D%nTIME: %T"'
+alias p=ping
+root@fazogir:/# alias
+root@fazogir:/# source ~/.bashrc
+root@fazogir:/# p 8.8.8.8
+PING 8.8.8.8 (8.8.8.8) 56(84) bytes of data.
+64 bytes from 8.8.8.8: icmp_seq=1 ttl=101 time=64.9 ms
+
+---------------------------------------------------------
+alias c='clear'
+alias h='hostname'
+alias i='ip a'

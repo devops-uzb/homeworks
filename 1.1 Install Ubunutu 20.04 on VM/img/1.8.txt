@@ -1,0 +1,36 @@
+date "+DATE: %D%nTIME: %T"
+DATE: 05/24/22
+TIME: 15:52:37
+root@fazogir:/# date "+%Y-%m-%d"
+2022-05-24
+root@fazogir:/# date "+%T"
+15:59:40
+root@fazogir:/# pwd
+/
+root@fazogir:/# ls -lat
+total 2097264
+root@fazogir:/# ls -lath
+total 2.1G
+root@fazogir:/# uname
+Linux
+root@fazogir:/# uname -a
+Linux fazogir 5.4.0-84-generic #94~18.04.1-Ubuntu SMP Thu Aug 26 23:17:46 UTC 2021 x86_64 x86_64 x86_64 GNU/Linux
+
+root@fazogir:/# id
+uid=0(root) gid=0(root) groups=0(root)
+root@fazogir:/# who
+fazogir  :0           2022-05-24 11:18 (:0)
+
+root@fazogir:/# id -u fazogir
+1000
+root@fazogir:/# id -g fazogir
+1000
+root@fazogir:/# id -g root
+0
+
+fazogir@fazogir:~$ w
+ 16:50:29 up  5:32,  3 users,  load average: 0.01, 0.05, 0.05
+USER     TTY      FROM             LOGIN@   IDLE   JCPU   PCPU WHAT
+fazogir  :0       :0               11:18   ?xdm?  23:47   0.00s /usr/lib/gdm3/gdm-x-session --run-script env GNOME_SHELL_SESSION_MODE=
+fazogir  pts/1    172.16.0.16      11:28    1:00m  0.05s  0.05s -bash
+fazogir  pts/2    172.16.0.16      11:29    3.00s  0.03s  0.00s w

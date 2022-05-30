@@ -1,0 +1,17 @@
+№1-savol) Shell nima?
+
+Javob: Shell - bu foydalanuvchi tomonidan yadroga berilgan buyruqni sharhlovchi buyruqlar tarjimoni. Uni foydalanuvchi va operatsion tizim o'rtasidagi interfeys sifatida ham aniqlash mumkin.
+
+2-savol) Shell skripti nima?
+
+Javob: Shell skripti oddiy matnli faylda yozilgan UNIX buyruqlarining ketma-ketligi yoki ketma-ketligidan boshqa narsa emas. Shell skriptlarida bir vaqtning o'zida bitta vazifani/buyruqni belgilash o'rniga biz uni bajarish uchun fayldagi vazifalar ro'yxati kabi UNIX buyruqlar ro'yxatini beramiz.
+
+№3-savol) Shell skriptlarini yozishning ahamiyati nimada?
+
+Javob: Quyida keltirilgan fikrlar qobiq skriptlarini yozish muhimligini tushuntiradi.
+
+Shell skripti foydalanuvchidan, fayldan ma'lumot oladi va uni ekranda ko'rsatadi.
+Shell skripti o'z buyruqlaringizni yaratishda juda foydali.
+Bu kundalik hayotning ba'zi vazifalarini avtomatlashtirishda foydalidir.
+Bu tizim boshqaruvi vazifalarini avtomatlashtirish uchun foydalidir.
+Bu, asosan, vaqtni tejaydi.

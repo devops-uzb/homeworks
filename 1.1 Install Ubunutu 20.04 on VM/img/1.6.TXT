@@ -1,0 +1,30 @@
+root@fazogir:/# echo $USER
+root
+root@fazogir:/# exit
+fazogir@fazogir:~$ echo $USER
+fazogir
+
+------------------------------
+
+fazogir@fazogir:~$ whoami
+fazogir
+-----------------------
+fazogir@fazogir:~$ cat /etc/passwd | grep ${USER}
+fazogir:x:1000:1000:fazogir,,,:/home/fazogir:/bin/bash
+fazogir@fazogir:~$ sudo su
+root@fazogir:/home/fazogir# cat /etc/passwd | grep ${USER}
+root:x:0:0:root:/root:/bin/bash
+
+-----------------------------
+cat /etc/group
+
+cat /etc/shadow
+
+fazogir@fazogir:~$ sudo cat /etc/shadow | grep ${USER}
+fazogir:$6$3NnCgNf3$m6ru6SyEv8EUtyQkAnacHzLfIjnYO1bwDCDgDzk4ZYfo89SqGXayCiMdViEVyGagG4HU1jZUjP11rGqX0w.9K0:19136:0:99999:7:::
+
+
+
+
+
+

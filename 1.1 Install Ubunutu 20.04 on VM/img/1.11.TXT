@@ -1,0 +1,24 @@
+root@fazogir:/# cat test.txt | sort | uniq
+Andijon
+Samarqand
+Toshkent
+
+root@fazogir:/# cat test.txt | sort  | less
+
+root@fazogir:/# sleep 10 &   apt-get install git
+[6] 9865
+Reading package lists... Done
+Building dependency tree
+Reading state information... Done
+
+root@fazogir:/# echo hello # salom
+hello
+
+ ls /etc/*
+root@fazogir:/# echo salom dunyo > test2.txt
+root@fazogir:/# cat test2.txt
+salom dunyo
+root@fazogir:/# echo Hayr Dunyo >> test2.txt
+root@fazogir:/# cat test2.txt
+salom dunyo
+Hayr Dunyo

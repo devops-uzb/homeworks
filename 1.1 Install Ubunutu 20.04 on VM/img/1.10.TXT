@@ -1,0 +1,15 @@
+root@fazogir:/# !?hostn?
+hostname --all-ip-addresses
+172.16.8.164
+root@fazogir:/# !92
+h
+fazogir
+history 10
+!20
+!!
+root@fazogir:/# !?da?
+date
+24 May, 2022 yil, Seshanba
+root@fazogir:/# !!
+date
+24 May, 2022 yil, Seshanba
