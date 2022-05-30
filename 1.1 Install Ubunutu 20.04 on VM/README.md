@@ -60,7 +60,32 @@ Linux ideapad 5.13.0-41-generic #46~20.04.1-Ubuntu SMP Wed Apr 20 13:16:21 UTC 2
 ![task12](./img/1.99.PNG)
 
 ## Piping commands ## 
+## 1.11 |, &, <, >, ; ##
+##  - cat /etc/passwd | sort | less (understand this commands) ##
+##  - date; ping google.com -c 2; echo "This is sequential commands" ##
+
+
 
 ![task13](./img/1.1111.PNG)
 
 
+
+##  1.12 Learn shell(environment) variable ##
+
+##  echo $USER ##
+##  Research and lern common Shell Environment Variables ##
+##  Learn and create alias ##
+## p=ping -c 4 ## 
+
+![task14](./img/1.12.PNG)
+
+![task15](./img/1.122.PNG)
+
+![task16](./img/1.1222.PNG)
+
+![task17](./img/1.222222.PNG)
+
+
+![task18](./img/1.2222222222.PNG)
+
+![task19](./img/1.1222222222.PNG)
