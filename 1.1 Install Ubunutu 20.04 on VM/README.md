@@ -89,3 +89,34 @@ Linux ideapad 5.13.0-41-generic #46~20.04.1-Ubuntu SMP Wed Apr 20 13:16:21 UTC 2
 ![task18](./img/1.2222222222.PNG)
 
 ![task19](./img/1.1222222222.PNG)
+
+
+## Homework ##
+
+## Type the following three commands, and then recall and change those commands as described: ##
+## $ cat /etc/passwd ##
+## $ ls $HOME ##
+## $ date ## 
+ ##  a. Use the command-line recall feature to recall the cat command and change /etc/passwd to /etc/group. ## 
+ ## b. Recall the ls command, determine how to list files by time (using the man page), and add that option to the ls $HOME command line. ## 
+ ## c. Add format indicators to the date command to display the date output as month/day/year ##
+
+ ## b. ##
+ ![task20](./imgh/1.b.PNG)
+## c. ##
+ ![task21](./imgh/1.c)
+
+ ##  2.  Run the date command in such a way that the output from that command produces the current day, month, date, and year. Have that read into another command line, resulting in text that appears like the following (your date, of course, will be different): Today is Thursday, December 19, 2019. ##
+
+ ![task22](./imgh/2.PNG)
+
+ ## 3. Using variables, find out what your hostname, username, shell, and home directories are currently set to. ##
+
+ ![task23](./imgh/3.PNG)
+## 4. Create an alias called mypass that displays the contents of the /etc/passwd file on your screen in such a way that it is available every time you log in or open a new shell from your user account. ##
+
+![task24](./imgh/4.1.PNG)
+
+![task25](./imgh/4.2.PNG)
+
+![task26](./imgh/4.3.PNG)
