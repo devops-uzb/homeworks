@@ -16,4 +16,8 @@
 
 ## 1.4 Answer what is shell in linux ##
 
-![tesk4](./img/1.4.TXT)
+![tesk4](./img/1.4.PNG)
+
+## "1.5 Find what are these symbols $, # (dollar ($) and pound (#)). "##
+
+![task5](./img/1.5.PNG)
