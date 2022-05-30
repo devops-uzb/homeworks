@@ -3,5 +3,4 @@
 
 ![task1](./img/1.1.PNG)
 
-![task2](./img/1.1.PNG)
 
