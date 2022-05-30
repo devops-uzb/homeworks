@@ -83,7 +83,7 @@ Linux ideapad 5.13.0-41-generic #46~20.04.1-Ubuntu SMP Wed Apr 20 13:16:21 UTC 2
 
 ![task16](./img/1.1222.PNG)
 
-![task17](./img/1.222222.PNG)
+![task17](./img/1.22222.PNG)
 
 
 ![task18](./img/1.2222222222.PNG)
