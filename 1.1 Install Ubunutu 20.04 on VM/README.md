@@ -18,6 +18,6 @@
 
 ![tesk4](./img/1.4.PNG)
 
-## "1.5 Find what are these symbols $, # (dollar ($) and pound (#)). "##
+## 1.5 Find what are these symbols $, # (dollar ($) and pound (#)). ##
 
 ![task5](./img/1.5.PNG)
