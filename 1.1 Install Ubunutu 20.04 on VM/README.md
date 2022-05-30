@@ -100,7 +100,8 @@ Linux ideapad 5.13.0-41-generic #46~20.04.1-Ubuntu SMP Wed Apr 20 13:16:21 UTC 2
  ##  a. Use the command-line recall feature to recall the cat command and change /etc/passwd to /etc/group. ## 
  ## b. Recall the ls command, determine how to list files by time (using the man page), and add that option to the ls $HOME command line. ## 
  ## c. Add format indicators to the date command to display the date output as month/day/year ##
-
+ ## a. ##
+ ![task27](./imgh/1.a)
  ## b. ##
  ![task20](./imgh/1.b.PNG)
 ## c. ##
